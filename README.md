@@ -62,6 +62,7 @@ npm install
 # Start frontend
 npm start
 
+🗂️ Project Structure
 
 ClearZone/
 ├── frontend/         # React frontend code
