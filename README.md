@@ -62,9 +62,11 @@ npm install
 # Start frontend
 npm start
 
+---
+
 ## 🗂️ Project Structure
 
-```
+
 ClearZone/
 ├── frontend/         # React frontend code
 ├── controllers/      # Backend route controllers
@@ -74,7 +76,5 @@ ClearZone/
 ├── utils/            # Utility functions (e.g. email)
 ├── server.js         # Entry point for Node server
 ├── testEmail.js      # Email testing script
-```
 
----
 
