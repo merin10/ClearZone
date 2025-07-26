@@ -54,3 +54,22 @@ npm install
 
 # Start backend server
 npm run dev
+
+# In a new terminal: install frontend
+cd frontend
+npm install
+
+# Start frontend
+npm start
+
+
+ClearZone/
+├── frontend/         # React frontend code
+├── controllers/      # Backend route controllers
+├── middleware/       # Auth & error handling
+├── models/           # Mongoose schemas
+├── routes/           # API routes
+├── utils/            # Utility functions (e.g. email)
+├── server.js         # Entry point for Node server
+├── testEmail.js      # Email testing script
+
