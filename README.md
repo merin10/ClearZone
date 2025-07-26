@@ -68,5 +68,21 @@ npm start
 
 ## 🗂️ Project Structure
 
-<pre> ClearZone/ ├── frontend/ # React frontend code ├── controllers/ # Backend route controllers ├── middleware/ # Auth & error handling ├── models/ # Mongoose schemas ├── routes/ # API routes ├── utils/ # Utility functions (e.g. email) ├── server.js # Entry point for Node server ├── testEmail.js # Email testing script </pre>
+ClearZone/
+│
+├── frontend/          # React frontend code
+│
+├── controllers/       # Backend route controllers
+│
+├── middleware/        # Auth & error handling
+│
+├── models/            # Mongoose schemas
+│
+├── routes/            # API routes
+│
+├── utils/             # Utility functions (e.g. email)
+│
+├── server.js          # Entry point for Node server
+│
+└── testEmail.js       # Email testing script
 
