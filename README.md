@@ -68,6 +68,8 @@ npm start
 
 ## 🗂️ Project Structure
 
+```
+
 ClearZone/
 │
 ├── frontend/          # React frontend code
@@ -85,4 +87,6 @@ ClearZone/
 ├── server.js          # Entry point for Node server
 │
 └── testEmail.js       # Email testing script
+
+```
 
