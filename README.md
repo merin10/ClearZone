@@ -42,6 +42,7 @@
 - MongoDB instance (local or cloud)
 - Google Maps API key
 
+
 ### 🔄 Installation
 
 ```bash
@@ -61,6 +62,7 @@ npm install
 
 # Start frontend
 npm start
+```  <!-- 👈 THIS closes the code block -->
 
 ---
 
