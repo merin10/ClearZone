@@ -28,7 +28,7 @@
 |-------------|------------------------|
 | Frontend    | React.js               |
 | Backend     | Node.js                |
-| Database    | MongoDB with Mongoose  |
+| Database    | MongoDB                |
 | Maps        | Google Maps API        |
 | Auth        | JWT (JSON Web Tokens)  |
 
@@ -39,7 +39,7 @@
 ### 🔧 Prerequisites
 - Node.js
 - npm
-- MongoDB instance (local or cloud)
+- MongoDB 
 - Google Maps API key
 
 
